@@ -1,0 +1,1 @@
+python -m mdm.eval.eval_humanml --model_path $1 --gt_file $2 --text_file $3 --result_file $4

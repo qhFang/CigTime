@@ -1,0 +1,1 @@
+python -m inference.inference --pretrain $1 --output_path $2
